@@ -4,7 +4,7 @@
 **Some fun facts about me:**\
 
 ---
-[Lab Report 1](https://mei31.github.io/<your-lab-reports-repo>/lab-report-1-week-0.html)
+[Lab Report 1](lab-report-1-week-0.html)
 
 ---
 I was born in `Mexico`\

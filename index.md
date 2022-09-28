@@ -2,6 +2,8 @@
 ## My name is Mei Man:)
 
 **Some fun facts about me:**\
+
+---
 I was born in `Mexico`\
 but my family is originally from `China`\
 and I have 4 siblings!!
